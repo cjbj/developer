@@ -1,4 +1,4 @@
-# Python and Oracle Database: Scripting for the Future
+# Python and Oracle Database: The New Wave
 
 Welcome to the Python and Oracle Database Workshop. In this tutorial, you will learn how to:
 - Create connections
