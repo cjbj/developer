@@ -1,4 +1,4 @@
-# Python and Oracle Database: Scripting for the Future
+# Python and Oracle Database: New Wave of Scripting
 
 ## Introduction
 
@@ -2215,4 +2215,3 @@ An additional lab on using Python with is available in the New Features for Deve
 * **Author** - Christopher Jones, Anthony Tuininga
 * **Contributors** - Jaden McElvey, Anoosha Pilli, Troy Anthony
 * **Last Updated By/Date** - Troy Anthony, DB Product Management, December 2020
-
